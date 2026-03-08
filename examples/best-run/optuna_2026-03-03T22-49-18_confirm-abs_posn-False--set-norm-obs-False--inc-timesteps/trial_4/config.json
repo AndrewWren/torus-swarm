@@ -1,0 +1,40 @@
+{
+  "env": {
+    "L": 16,
+    "N": 16,
+    "r": 4,
+    "T": 80,
+    "include_abs_pos": false,
+    "move_penalty": 0.00019905842888003089,
+    "collision_penalty": 0.006318483419560173,
+    "seed": 4
+  },
+  "ppo": {
+    "n_steps": 640,
+    "batch_size": 1280,
+    "n_epochs": 10,
+    "learning_rate": 0.0002047228285197349,
+    "gamma": 0.9785407181389963,
+    "ent_coef": 0.012289646538285843,
+    "clip_range": 0.2,
+    "target_kl": 0.02,
+    "policy_kwargs": {
+      "per_agent_dim": 128,
+      "critic_hidden": [
+        256,
+        256
+      ]
+    }
+  },
+  "training": {
+    "total_timesteps": 2000640,
+    "eval_freq": 640,
+    "n_envs": 8,
+    "script": "optuna_optimize"
+  },
+  "vec_normalize": {
+    "norm_obs": false,
+    "norm_reward": true,
+    "clip_reward": 10.0
+  }
+}

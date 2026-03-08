@@ -1,0 +1,42 @@
+{
+  "env": {
+    "L": 16,
+    "N": 16,
+    "r": 4,
+    "T": 32,
+    "include_abs_pos": false,
+    "move_penalty": 0.001,
+    "collision_penalty": 0.01,
+    "seed": 0,
+    "allow_swap_cycles": false
+  },
+  "ppo": {
+    "n_steps": 2048,
+    "batch_size": 8192,
+    "n_epochs": 10,
+    "learning_rate": 0.0001,
+    "gamma": 0.995,
+    "ent_coef": 0.05,
+    "clip_range": 0.2,
+    "target_kl": 0.02,
+    "policy_kwargs": {
+      "per_agent_dim": 64,
+      "critic_hidden": [
+        256,
+        256
+      ]
+    }
+  },
+  "training": {
+    "total_timesteps": 262144,
+    "eval_freq": 2048,
+    "n_envs": 8,
+    "script": "localized_actions"
+  },
+  "vec_normalize": {
+    "norm_obs": true,
+    "norm_reward": true,
+    "clip_obs": 10.0,
+    "clip_reward": 10.0
+  }
+}

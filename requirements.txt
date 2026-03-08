@@ -1,0 +1,4 @@
+gymnasium>=1.0.0
+imageio[pyav]
+optuna>=4.7.0
+stable-baselines3>=2.0.0

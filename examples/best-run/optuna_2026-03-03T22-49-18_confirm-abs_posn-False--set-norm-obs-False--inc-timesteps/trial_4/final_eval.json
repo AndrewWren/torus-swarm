@@ -1,0 +1,3324 @@
+{
+  "mean_num_good": 2.9625,
+  "std_num_good": 0.06959705453537528,
+  "num_good": [
+    3.0,
+    2.875,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    2.875,
+    2.75,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    2.875,
+    3.0,
+    2.875
+  ],
+  "eval_num_good_history": [
+    {
+      "timesteps": 0,
+      "mean_ep_final_step_num_good": 0.125
+    },
+    {
+      "timesteps": 5120,
+      "mean_ep_final_step_num_good": 0.1
+    },
+    {
+      "timesteps": 10240,
+      "mean_ep_final_step_num_good": 0.125
+    },
+    {
+      "timesteps": 15360,
+      "mean_ep_final_step_num_good": 0.91875
+    },
+    {
+      "timesteps": 20480,
+      "mean_ep_final_step_num_good": 1.89375
+    },
+    {
+      "timesteps": 25600,
+      "mean_ep_final_step_num_good": 1.925
+    },
+    {
+      "timesteps": 30720,
+      "mean_ep_final_step_num_good": 1.96875
+    },
+    {
+      "timesteps": 35840,
+      "mean_ep_final_step_num_good": 2.0375
+    },
+    {
+      "timesteps": 40960,
+      "mean_ep_final_step_num_good": 2.1
+    },
+    {
+      "timesteps": 46080,
+      "mean_ep_final_step_num_good": 2.01875
+    },
+    {
+      "timesteps": 51200,
+      "mean_ep_final_step_num_good": 2.11875
+    },
+    {
+      "timesteps": 56320,
+      "mean_ep_final_step_num_good": 2.08125
+    },
+    {
+      "timesteps": 61440,
+      "mean_ep_final_step_num_good": 2.25
+    },
+    {
+      "timesteps": 66560,
+      "mean_ep_final_step_num_good": 2.03125
+    },
+    {
+      "timesteps": 71680,
+      "mean_ep_final_step_num_good": 2.175
+    },
+    {
+      "timesteps": 76800,
+      "mean_ep_final_step_num_good": 2.125
+    },
+    {
+      "timesteps": 81920,
+      "mean_ep_final_step_num_good": 2.06875
+    },
+    {
+      "timesteps": 87040,
+      "mean_ep_final_step_num_good": 2.13125
+    },
+    {
+      "timesteps": 92160,
+      "mean_ep_final_step_num_good": 2.18125
+    },
+    {
+      "timesteps": 97280,
+      "mean_ep_final_step_num_good": 2.21875
+    },
+    {
+      "timesteps": 102400,
+      "mean_ep_final_step_num_good": 2.18125
+    },
+    {
+      "timesteps": 107520,
+      "mean_ep_final_step_num_good": 2.25
+    },
+    {
+      "timesteps": 112640,
+      "mean_ep_final_step_num_good": 2.3
+    },
+    {
+      "timesteps": 117760,
+      "mean_ep_final_step_num_good": 2.2625
+    },
+    {
+      "timesteps": 122880,
+      "mean_ep_final_step_num_good": 2.33125
+    },
+    {
+      "timesteps": 128000,
+      "mean_ep_final_step_num_good": 2.375
+    },
+    {
+      "timesteps": 133120,
+      "mean_ep_final_step_num_good": 2.25
+    },
+    {
+      "timesteps": 138240,
+      "mean_ep_final_step_num_good": 2.21875
+    },
+    {
+      "timesteps": 143360,
+      "mean_ep_final_step_num_good": 2.18125
+    },
+    {
+      "timesteps": 148480,
+      "mean_ep_final_step_num_good": 1.91875
+    },
+    {
+      "timesteps": 153600,
+      "mean_ep_final_step_num_good": 1.79375
+    },
+    {
+      "timesteps": 158720,
+      "mean_ep_final_step_num_good": 1.8875
+    },
+    {
+      "timesteps": 163840,
+      "mean_ep_final_step_num_good": 1.88125
+    },
+    {
+      "timesteps": 168960,
+      "mean_ep_final_step_num_good": 1.56875
+    },
+    {
+      "timesteps": 174080,
+      "mean_ep_final_step_num_good": 1.74375
+    },
+    {
+      "timesteps": 179200,
+      "mean_ep_final_step_num_good": 1.775
+    },
+    {
+      "timesteps": 184320,
+      "mean_ep_final_step_num_good": 1.88125
+    },
+    {
+      "timesteps": 189440,
+      "mean_ep_final_step_num_good": 2.24375
+    },
+    {
+      "timesteps": 194560,
+      "mean_ep_final_step_num_good": 2.1
+    },
+    {
+      "timesteps": 199680,
+      "mean_ep_final_step_num_good": 2.33125
+    },
+    {
+      "timesteps": 204800,
+      "mean_ep_final_step_num_good": 1.95
+    },
+    {
+      "timesteps": 209920,
+      "mean_ep_final_step_num_good": 1.75
+    },
+    {
+      "timesteps": 215040,
+      "mean_ep_final_step_num_good": 1.83125
+    },
+    {
+      "timesteps": 220160,
+      "mean_ep_final_step_num_good": 1.89375
+    },
+    {
+      "timesteps": 225280,
+      "mean_ep_final_step_num_good": 1.675
+    },
+    {
+      "timesteps": 230400,
+      "mean_ep_final_step_num_good": 1.875
+    },
+    {
+      "timesteps": 235520,
+      "mean_ep_final_step_num_good": 1.7875
+    },
+    {
+      "timesteps": 240640,
+      "mean_ep_final_step_num_good": 1.85
+    },
+    {
+      "timesteps": 245760,
+      "mean_ep_final_step_num_good": 1.98125
+    },
+    {
+      "timesteps": 250880,
+      "mean_ep_final_step_num_good": 1.88125
+    },
+    {
+      "timesteps": 256000,
+      "mean_ep_final_step_num_good": 1.59375
+    },
+    {
+      "timesteps": 261120,
+      "mean_ep_final_step_num_good": 1.90625
+    },
+    {
+      "timesteps": 266240,
+      "mean_ep_final_step_num_good": 2.1375
+    },
+    {
+      "timesteps": 271360,
+      "mean_ep_final_step_num_good": 2.1875
+    },
+    {
+      "timesteps": 276480,
+      "mean_ep_final_step_num_good": 2.35
+    },
+    {
+      "timesteps": 281600,
+      "mean_ep_final_step_num_good": 1.99375
+    },
+    {
+      "timesteps": 286720,
+      "mean_ep_final_step_num_good": 2.41875
+    },
+    {
+      "timesteps": 291840,
+      "mean_ep_final_step_num_good": 2.3625
+    },
+    {
+      "timesteps": 296960,
+      "mean_ep_final_step_num_good": 2.20625
+    },
+    {
+      "timesteps": 302080,
+      "mean_ep_final_step_num_good": 2.36875
+    },
+    {
+      "timesteps": 307200,
+      "mean_ep_final_step_num_good": 2.11875
+    },
+    {
+      "timesteps": 312320,
+      "mean_ep_final_step_num_good": 2.18125
+    },
+    {
+      "timesteps": 317440,
+      "mean_ep_final_step_num_good": 2.28125
+    },
+    {
+      "timesteps": 322560,
+      "mean_ep_final_step_num_good": 2.225
+    },
+    {
+      "timesteps": 327680,
+      "mean_ep_final_step_num_good": 2.275
+    },
+    {
+      "timesteps": 332800,
+      "mean_ep_final_step_num_good": 2.3125
+    },
+    {
+      "timesteps": 337920,
+      "mean_ep_final_step_num_good": 2.49375
+    },
+    {
+      "timesteps": 343040,
+      "mean_ep_final_step_num_good": 2.4375
+    },
+    {
+      "timesteps": 348160,
+      "mean_ep_final_step_num_good": 2.51875
+    },
+    {
+      "timesteps": 353280,
+      "mean_ep_final_step_num_good": 2.44375
+    },
+    {
+      "timesteps": 358400,
+      "mean_ep_final_step_num_good": 2.58125
+    },
+    {
+      "timesteps": 363520,
+      "mean_ep_final_step_num_good": 2.55
+    },
+    {
+      "timesteps": 368640,
+      "mean_ep_final_step_num_good": 2.4375
+    },
+    {
+      "timesteps": 373760,
+      "mean_ep_final_step_num_good": 2.65
+    },
+    {
+      "timesteps": 378880,
+      "mean_ep_final_step_num_good": 2.55
+    },
+    {
+      "timesteps": 384000,
+      "mean_ep_final_step_num_good": 2.49375
+    },
+    {
+      "timesteps": 389120,
+      "mean_ep_final_step_num_good": 2.58125
+    },
+    {
+      "timesteps": 394240,
+      "mean_ep_final_step_num_good": 2.6375
+    },
+    {
+      "timesteps": 399360,
+      "mean_ep_final_step_num_good": 2.35625
+    },
+    {
+      "timesteps": 404480,
+      "mean_ep_final_step_num_good": 2.6
+    },
+    {
+      "timesteps": 409600,
+      "mean_ep_final_step_num_good": 2.5125
+    },
+    {
+      "timesteps": 414720,
+      "mean_ep_final_step_num_good": 2.5625
+    },
+    {
+      "timesteps": 419840,
+      "mean_ep_final_step_num_good": 2.36875
+    },
+    {
+      "timesteps": 424960,
+      "mean_ep_final_step_num_good": 2.4125
+    },
+    {
+      "timesteps": 430080,
+      "mean_ep_final_step_num_good": 2.50625
+    },
+    {
+      "timesteps": 435200,
+      "mean_ep_final_step_num_good": 2.54375
+    },
+    {
+      "timesteps": 440320,
+      "mean_ep_final_step_num_good": 2.4375
+    },
+    {
+      "timesteps": 445440,
+      "mean_ep_final_step_num_good": 2.475
+    },
+    {
+      "timesteps": 450560,
+      "mean_ep_final_step_num_good": 2.5625
+    },
+    {
+      "timesteps": 455680,
+      "mean_ep_final_step_num_good": 2.5875
+    },
+    {
+      "timesteps": 460800,
+      "mean_ep_final_step_num_good": 2.55625
+    },
+    {
+      "timesteps": 465920,
+      "mean_ep_final_step_num_good": 2.475
+    },
+    {
+      "timesteps": 471040,
+      "mean_ep_final_step_num_good": 2.6125
+    },
+    {
+      "timesteps": 476160,
+      "mean_ep_final_step_num_good": 2.5875
+    },
+    {
+      "timesteps": 481280,
+      "mean_ep_final_step_num_good": 2.61875
+    },
+    {
+      "timesteps": 486400,
+      "mean_ep_final_step_num_good": 2.53125
+    },
+    {
+      "timesteps": 491520,
+      "mean_ep_final_step_num_good": 2.675
+    },
+    {
+      "timesteps": 496640,
+      "mean_ep_final_step_num_good": 2.675
+    },
+    {
+      "timesteps": 501760,
+      "mean_ep_final_step_num_good": 2.625
+    },
+    {
+      "timesteps": 506880,
+      "mean_ep_final_step_num_good": 2.51875
+    },
+    {
+      "timesteps": 512000,
+      "mean_ep_final_step_num_good": 2.5875
+    },
+    {
+      "timesteps": 517120,
+      "mean_ep_final_step_num_good": 2.68125
+    },
+    {
+      "timesteps": 522240,
+      "mean_ep_final_step_num_good": 2.6625
+    },
+    {
+      "timesteps": 527360,
+      "mean_ep_final_step_num_good": 2.6125
+    },
+    {
+      "timesteps": 532480,
+      "mean_ep_final_step_num_good": 2.51875
+    },
+    {
+      "timesteps": 537600,
+      "mean_ep_final_step_num_good": 2.53125
+    },
+    {
+      "timesteps": 542720,
+      "mean_ep_final_step_num_good": 2.7875
+    },
+    {
+      "timesteps": 547840,
+      "mean_ep_final_step_num_good": 2.61875
+    },
+    {
+      "timesteps": 552960,
+      "mean_ep_final_step_num_good": 2.70625
+    },
+    {
+      "timesteps": 558080,
+      "mean_ep_final_step_num_good": 2.75
+    },
+    {
+      "timesteps": 563200,
+      "mean_ep_final_step_num_good": 2.6375
+    },
+    {
+      "timesteps": 568320,
+      "mean_ep_final_step_num_good": 2.55625
+    },
+    {
+      "timesteps": 573440,
+      "mean_ep_final_step_num_good": 2.64375
+    },
+    {
+      "timesteps": 578560,
+      "mean_ep_final_step_num_good": 2.7125
+    },
+    {
+      "timesteps": 583680,
+      "mean_ep_final_step_num_good": 2.7625
+    },
+    {
+      "timesteps": 588800,
+      "mean_ep_final_step_num_good": 2.725
+    },
+    {
+      "timesteps": 593920,
+      "mean_ep_final_step_num_good": 2.59375
+    },
+    {
+      "timesteps": 599040,
+      "mean_ep_final_step_num_good": 2.75
+    },
+    {
+      "timesteps": 604160,
+      "mean_ep_final_step_num_good": 2.6875
+    },
+    {
+      "timesteps": 609280,
+      "mean_ep_final_step_num_good": 2.61875
+    },
+    {
+      "timesteps": 614400,
+      "mean_ep_final_step_num_good": 2.725
+    },
+    {
+      "timesteps": 619520,
+      "mean_ep_final_step_num_good": 2.66875
+    },
+    {
+      "timesteps": 624640,
+      "mean_ep_final_step_num_good": 2.70625
+    },
+    {
+      "timesteps": 629760,
+      "mean_ep_final_step_num_good": 2.73125
+    },
+    {
+      "timesteps": 634880,
+      "mean_ep_final_step_num_good": 2.64375
+    },
+    {
+      "timesteps": 640000,
+      "mean_ep_final_step_num_good": 2.76875
+    },
+    {
+      "timesteps": 645120,
+      "mean_ep_final_step_num_good": 2.66875
+    },
+    {
+      "timesteps": 650240,
+      "mean_ep_final_step_num_good": 2.7125
+    },
+    {
+      "timesteps": 655360,
+      "mean_ep_final_step_num_good": 2.7375
+    },
+    {
+      "timesteps": 660480,
+      "mean_ep_final_step_num_good": 2.76875
+    },
+    {
+      "timesteps": 665600,
+      "mean_ep_final_step_num_good": 2.74375
+    },
+    {
+      "timesteps": 670720,
+      "mean_ep_final_step_num_good": 2.825
+    },
+    {
+      "timesteps": 675840,
+      "mean_ep_final_step_num_good": 2.68125
+    },
+    {
+      "timesteps": 680960,
+      "mean_ep_final_step_num_good": 2.675
+    },
+    {
+      "timesteps": 686080,
+      "mean_ep_final_step_num_good": 2.7
+    },
+    {
+      "timesteps": 691200,
+      "mean_ep_final_step_num_good": 2.61875
+    },
+    {
+      "timesteps": 696320,
+      "mean_ep_final_step_num_good": 2.76875
+    },
+    {
+      "timesteps": 701440,
+      "mean_ep_final_step_num_good": 2.61875
+    },
+    {
+      "timesteps": 706560,
+      "mean_ep_final_step_num_good": 2.76875
+    },
+    {
+      "timesteps": 711680,
+      "mean_ep_final_step_num_good": 2.6875
+    },
+    {
+      "timesteps": 716800,
+      "mean_ep_final_step_num_good": 2.75625
+    },
+    {
+      "timesteps": 721920,
+      "mean_ep_final_step_num_good": 2.825
+    },
+    {
+      "timesteps": 727040,
+      "mean_ep_final_step_num_good": 2.7875
+    },
+    {
+      "timesteps": 732160,
+      "mean_ep_final_step_num_good": 2.78125
+    },
+    {
+      "timesteps": 737280,
+      "mean_ep_final_step_num_good": 2.81875
+    },
+    {
+      "timesteps": 742400,
+      "mean_ep_final_step_num_good": 2.74375
+    },
+    {
+      "timesteps": 747520,
+      "mean_ep_final_step_num_good": 2.83125
+    },
+    {
+      "timesteps": 752640,
+      "mean_ep_final_step_num_good": 2.68125
+    },
+    {
+      "timesteps": 757760,
+      "mean_ep_final_step_num_good": 2.7875
+    },
+    {
+      "timesteps": 762880,
+      "mean_ep_final_step_num_good": 2.8625
+    },
+    {
+      "timesteps": 768000,
+      "mean_ep_final_step_num_good": 2.84375
+    },
+    {
+      "timesteps": 773120,
+      "mean_ep_final_step_num_good": 2.775
+    },
+    {
+      "timesteps": 778240,
+      "mean_ep_final_step_num_good": 2.81875
+    },
+    {
+      "timesteps": 783360,
+      "mean_ep_final_step_num_good": 2.7875
+    },
+    {
+      "timesteps": 788480,
+      "mean_ep_final_step_num_good": 2.76875
+    },
+    {
+      "timesteps": 793600,
+      "mean_ep_final_step_num_good": 2.8375
+    },
+    {
+      "timesteps": 798720,
+      "mean_ep_final_step_num_good": 2.78125
+    },
+    {
+      "timesteps": 803840,
+      "mean_ep_final_step_num_good": 2.75
+    },
+    {
+      "timesteps": 808960,
+      "mean_ep_final_step_num_good": 2.80625
+    },
+    {
+      "timesteps": 814080,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 819200,
+      "mean_ep_final_step_num_good": 2.825
+    },
+    {
+      "timesteps": 824320,
+      "mean_ep_final_step_num_good": 2.8875
+    },
+    {
+      "timesteps": 829440,
+      "mean_ep_final_step_num_good": 2.75625
+    },
+    {
+      "timesteps": 834560,
+      "mean_ep_final_step_num_good": 2.78125
+    },
+    {
+      "timesteps": 839680,
+      "mean_ep_final_step_num_good": 2.85
+    },
+    {
+      "timesteps": 844800,
+      "mean_ep_final_step_num_good": 2.81875
+    },
+    {
+      "timesteps": 849920,
+      "mean_ep_final_step_num_good": 2.89375
+    },
+    {
+      "timesteps": 855040,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 860160,
+      "mean_ep_final_step_num_good": 2.8
+    },
+    {
+      "timesteps": 865280,
+      "mean_ep_final_step_num_good": 2.8375
+    },
+    {
+      "timesteps": 870400,
+      "mean_ep_final_step_num_good": 2.88125
+    },
+    {
+      "timesteps": 875520,
+      "mean_ep_final_step_num_good": 2.8875
+    },
+    {
+      "timesteps": 880640,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 885760,
+      "mean_ep_final_step_num_good": 2.825
+    },
+    {
+      "timesteps": 890880,
+      "mean_ep_final_step_num_good": 2.85
+    },
+    {
+      "timesteps": 896000,
+      "mean_ep_final_step_num_good": 2.875
+    },
+    {
+      "timesteps": 901120,
+      "mean_ep_final_step_num_good": 2.825
+    },
+    {
+      "timesteps": 906240,
+      "mean_ep_final_step_num_good": 2.80625
+    },
+    {
+      "timesteps": 911360,
+      "mean_ep_final_step_num_good": 2.8875
+    },
+    {
+      "timesteps": 916480,
+      "mean_ep_final_step_num_good": 2.75625
+    },
+    {
+      "timesteps": 921600,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 926720,
+      "mean_ep_final_step_num_good": 2.89375
+    },
+    {
+      "timesteps": 931840,
+      "mean_ep_final_step_num_good": 2.81875
+    },
+    {
+      "timesteps": 936960,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 942080,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 947200,
+      "mean_ep_final_step_num_good": 2.85
+    },
+    {
+      "timesteps": 952320,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 957440,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 962560,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 967680,
+      "mean_ep_final_step_num_good": 2.8875
+    },
+    {
+      "timesteps": 972800,
+      "mean_ep_final_step_num_good": 2.84375
+    },
+    {
+      "timesteps": 977920,
+      "mean_ep_final_step_num_good": 2.8625
+    },
+    {
+      "timesteps": 983040,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 988160,
+      "mean_ep_final_step_num_good": 2.89375
+    },
+    {
+      "timesteps": 993280,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 998400,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 1003520,
+      "mean_ep_final_step_num_good": 2.8375
+    },
+    {
+      "timesteps": 1008640,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1013760,
+      "mean_ep_final_step_num_good": 2.85625
+    },
+    {
+      "timesteps": 1018880,
+      "mean_ep_final_step_num_good": 2.85625
+    },
+    {
+      "timesteps": 1024000,
+      "mean_ep_final_step_num_good": 2.73125
+    },
+    {
+      "timesteps": 1029120,
+      "mean_ep_final_step_num_good": 2.875
+    },
+    {
+      "timesteps": 1034240,
+      "mean_ep_final_step_num_good": 2.78125
+    },
+    {
+      "timesteps": 1039360,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 1044480,
+      "mean_ep_final_step_num_good": 2.84375
+    },
+    {
+      "timesteps": 1049600,
+      "mean_ep_final_step_num_good": 2.825
+    },
+    {
+      "timesteps": 1054720,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 1059840,
+      "mean_ep_final_step_num_good": 2.875
+    },
+    {
+      "timesteps": 1064960,
+      "mean_ep_final_step_num_good": 2.85625
+    },
+    {
+      "timesteps": 1070080,
+      "mean_ep_final_step_num_good": 2.8625
+    },
+    {
+      "timesteps": 1075200,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1080320,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1085440,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 1090560,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1095680,
+      "mean_ep_final_step_num_good": 2.88125
+    },
+    {
+      "timesteps": 1100800,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1105920,
+      "mean_ep_final_step_num_good": 2.85625
+    },
+    {
+      "timesteps": 1111040,
+      "mean_ep_final_step_num_good": 2.81875
+    },
+    {
+      "timesteps": 1116160,
+      "mean_ep_final_step_num_good": 2.8625
+    },
+    {
+      "timesteps": 1121280,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1126400,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1131520,
+      "mean_ep_final_step_num_good": 2.825
+    },
+    {
+      "timesteps": 1136640,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 1141760,
+      "mean_ep_final_step_num_good": 2.75625
+    },
+    {
+      "timesteps": 1146880,
+      "mean_ep_final_step_num_good": 2.81875
+    },
+    {
+      "timesteps": 1152000,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1157120,
+      "mean_ep_final_step_num_good": 2.79375
+    },
+    {
+      "timesteps": 1162240,
+      "mean_ep_final_step_num_good": 2.8125
+    },
+    {
+      "timesteps": 1167360,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 1172480,
+      "mean_ep_final_step_num_good": 2.88125
+    },
+    {
+      "timesteps": 1177600,
+      "mean_ep_final_step_num_good": 2.89375
+    },
+    {
+      "timesteps": 1182720,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 1187840,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1192960,
+      "mean_ep_final_step_num_good": 2.81875
+    },
+    {
+      "timesteps": 1198080,
+      "mean_ep_final_step_num_good": 2.8625
+    },
+    {
+      "timesteps": 1203200,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1208320,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 1213440,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 1218560,
+      "mean_ep_final_step_num_good": 2.83125
+    },
+    {
+      "timesteps": 1223680,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 1228800,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1233920,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 1239040,
+      "mean_ep_final_step_num_good": 2.88125
+    },
+    {
+      "timesteps": 1244160,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1249280,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1254400,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1259520,
+      "mean_ep_final_step_num_good": 2.8875
+    },
+    {
+      "timesteps": 1264640,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1269760,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1274880,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1280000,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1285120,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1290240,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1295360,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1300480,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1305600,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1310720,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1315840,
+      "mean_ep_final_step_num_good": 2.98125
+    },
+    {
+      "timesteps": 1320960,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1326080,
+      "mean_ep_final_step_num_good": 2.8625
+    },
+    {
+      "timesteps": 1331200,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1336320,
+      "mean_ep_final_step_num_good": 2.8875
+    },
+    {
+      "timesteps": 1341440,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1346560,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1351680,
+      "mean_ep_final_step_num_good": 2.89375
+    },
+    {
+      "timesteps": 1356800,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1361920,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1367040,
+      "mean_ep_final_step_num_good": 2.84375
+    },
+    {
+      "timesteps": 1372160,
+      "mean_ep_final_step_num_good": 2.8625
+    },
+    {
+      "timesteps": 1377280,
+      "mean_ep_final_step_num_good": 2.8875
+    },
+    {
+      "timesteps": 1382400,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1387520,
+      "mean_ep_final_step_num_good": 2.85625
+    },
+    {
+      "timesteps": 1392640,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 1397760,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1402880,
+      "mean_ep_final_step_num_good": 2.99375
+    },
+    {
+      "timesteps": 1408000,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1413120,
+      "mean_ep_final_step_num_good": 2.84375
+    },
+    {
+      "timesteps": 1418240,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1423360,
+      "mean_ep_final_step_num_good": 2.9375
+    },
+    {
+      "timesteps": 1428480,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1433600,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1438720,
+      "mean_ep_final_step_num_good": 3.0
+    },
+    {
+      "timesteps": 1443840,
+      "mean_ep_final_step_num_good": 2.85
+    },
+    {
+      "timesteps": 1448960,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1454080,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1459200,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1464320,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 1469440,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1474560,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1479680,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1484800,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1489920,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1495040,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 1500160,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1505280,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1510400,
+      "mean_ep_final_step_num_good": 2.89375
+    },
+    {
+      "timesteps": 1515520,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1520640,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1525760,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1530880,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1536000,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1541120,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1546240,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1551360,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1556480,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1561600,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1566720,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1571840,
+      "mean_ep_final_step_num_good": 2.98125
+    },
+    {
+      "timesteps": 1576960,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1582080,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1587200,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1592320,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1597440,
+      "mean_ep_final_step_num_good": 2.975
+    },
+    {
+      "timesteps": 1602560,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1607680,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 1612800,
+      "mean_ep_final_step_num_good": 2.975
+    },
+    {
+      "timesteps": 1617920,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1623040,
+      "mean_ep_final_step_num_good": 2.98125
+    },
+    {
+      "timesteps": 1628160,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1633280,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1638400,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1643520,
+      "mean_ep_final_step_num_good": 2.975
+    },
+    {
+      "timesteps": 1648640,
+      "mean_ep_final_step_num_good": 2.86875
+    },
+    {
+      "timesteps": 1653760,
+      "mean_ep_final_step_num_good": 2.89375
+    },
+    {
+      "timesteps": 1658880,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1664000,
+      "mean_ep_final_step_num_good": 2.975
+    },
+    {
+      "timesteps": 1669120,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1674240,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1679360,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1684480,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1689600,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1694720,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1699840,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1704960,
+      "mean_ep_final_step_num_good": 2.98125
+    },
+    {
+      "timesteps": 1710080,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1715200,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1720320,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1725440,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1730560,
+      "mean_ep_final_step_num_good": 2.90625
+    },
+    {
+      "timesteps": 1735680,
+      "mean_ep_final_step_num_good": 2.9375
+    },
+    {
+      "timesteps": 1740800,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1745920,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 1751040,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1756160,
+      "mean_ep_final_step_num_good": 2.84375
+    },
+    {
+      "timesteps": 1761280,
+      "mean_ep_final_step_num_good": 2.9375
+    },
+    {
+      "timesteps": 1766400,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1771520,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1776640,
+      "mean_ep_final_step_num_good": 2.98125
+    },
+    {
+      "timesteps": 1781760,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1786880,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1792000,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1797120,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1802240,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1807360,
+      "mean_ep_final_step_num_good": 2.9375
+    },
+    {
+      "timesteps": 1812480,
+      "mean_ep_final_step_num_good": 2.98125
+    },
+    {
+      "timesteps": 1817600,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1822720,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1827840,
+      "mean_ep_final_step_num_good": 2.975
+    },
+    {
+      "timesteps": 1832960,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1838080,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1843200,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1848320,
+      "mean_ep_final_step_num_good": 2.9125
+    },
+    {
+      "timesteps": 1853440,
+      "mean_ep_final_step_num_good": 2.975
+    },
+    {
+      "timesteps": 1858560,
+      "mean_ep_final_step_num_good": 2.99375
+    },
+    {
+      "timesteps": 1863680,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1868800,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1873920,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1879040,
+      "mean_ep_final_step_num_good": 2.99375
+    },
+    {
+      "timesteps": 1884160,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1889280,
+      "mean_ep_final_step_num_good": 2.975
+    },
+    {
+      "timesteps": 1894400,
+      "mean_ep_final_step_num_good": 2.99375
+    },
+    {
+      "timesteps": 1899520,
+      "mean_ep_final_step_num_good": 2.9375
+    },
+    {
+      "timesteps": 1904640,
+      "mean_ep_final_step_num_good": 2.9875
+    },
+    {
+      "timesteps": 1909760,
+      "mean_ep_final_step_num_good": 2.95
+    },
+    {
+      "timesteps": 1914880,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1920000,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1925120,
+      "mean_ep_final_step_num_good": 2.9
+    },
+    {
+      "timesteps": 1930240,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1935360,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1940480,
+      "mean_ep_final_step_num_good": 2.84375
+    },
+    {
+      "timesteps": 1945600,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1950720,
+      "mean_ep_final_step_num_good": 2.91875
+    },
+    {
+      "timesteps": 1955840,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 1960960,
+      "mean_ep_final_step_num_good": 2.93125
+    },
+    {
+      "timesteps": 1966080,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1971200,
+      "mean_ep_final_step_num_good": 2.925
+    },
+    {
+      "timesteps": 1976320,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1981440,
+      "mean_ep_final_step_num_good": 2.9625
+    },
+    {
+      "timesteps": 1986560,
+      "mean_ep_final_step_num_good": 2.94375
+    },
+    {
+      "timesteps": 1991680,
+      "mean_ep_final_step_num_good": 2.95625
+    },
+    {
+      "timesteps": 1996800,
+      "mean_ep_final_step_num_good": 2.96875
+    },
+    {
+      "timesteps": 2001920,
+      "mean_ep_final_step_num_good": 2.9375
+    }
+  ],
+  "num_timesteps": 2001920,
+  "mean_reward": 51.37600580000001,
+  "std_reward": 4.124969721514009,
+  "mean_ep_length": 80.0,
+  "std_ep_length": 0.0,
+  "episode_rewards": [
+    51.681829,
+    50.214346,
+    53.827547,
+    52.873329,
+    55.419696,
+    52.654522,
+    53.693521,
+    53.487574,
+    52.717882,
+    50.312029,
+    46.938357,
+    36.477952,
+    55.298498,
+    51.147271,
+    52.51888,
+    54.681282,
+    46.79092,
+    54.426918,
+    50.913007,
+    51.444756
+  ],
+  "episode_lengths": [
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80,
+    80
+  ],
+  "mean_mean_action_prob": 0.9700326433684677,
+  "std_mean_action_prob": 0.05383728829079427,
+  "mean_action_prob": [
+    0.8612016625702381,
+    0.8597142212092876,
+    0.8056673724204302,
+    0.7547794096171856,
+    0.7897014990448952,
+    0.7794436272233725,
+    0.806161155924201,
+    0.9457295648753643,
+    0.8731123618781567,
+    0.9041981175541878,
+    0.8663787469267845,
+    0.931735884398222,
+    0.9147483669221401,
+    0.9450212866067886,
+    0.9887249357998371,
+    0.9987749084830284,
+    0.9723921716213226,
+    0.999303538352251,
+    0.9981945306062698,
+    0.9992051795125008,
+    0.9990000240504742,
+    0.99961232021451,
+    0.9991766922175884,
+    0.9993119575083256,
+    0.9998813942074776,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.7927589826285839,
+    0.8972597159445286,
+    0.7978705912828445,
+    0.9002139400690794,
+    0.7912082355469465,
+    0.8741653822362423,
+    0.9081610217690468,
+    0.8122550919651985,
+    0.8651070334017277,
+    0.9260718859732151,
+    0.8804671317338943,
+    0.9731613993644714,
+    0.9246814325451851,
+    0.9299122206866741,
+    0.9583334252238274,
+    0.9407268986105919,
+    0.9186871834099293,
+    0.9552635475993156,
+    0.9917729012668133,
+    0.9664313867688179,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.7494856417179108,
+    0.8748250938951969,
+    0.8158930465579033,
+    0.7548364922404289,
+    0.9121330603957176,
+    0.8410630226135254,
+    0.8649603724479675,
+    0.9341101087629795,
+    0.9493421949446201,
+    0.9607048220932484,
+    0.9992835111916065,
+    0.9895713441073895,
+    0.9977333955466747,
+    0.9989631325006485,
+    0.9976970255374908,
+    0.9992051795125008,
+    0.9990000240504742,
+    0.99961232021451,
+    0.9991766922175884,
+    0.9993119575083256,
+    0.9998813942074776,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.838349811732769,
+    0.8747949562966824,
+    0.8122290074825287,
+    0.8412344120442867,
+    0.8696311078965664,
+    0.8325658552348614,
+    0.9172552339732647,
+    0.9079786445945501,
+    0.9011425115168095,
+    0.9280037470161915,
+    0.9459509067237377,
+    0.9636432938277721,
+    0.9445899501442909,
+    0.9738600216805935,
+    0.9833373390138149,
+    0.9745059609413147,
+    0.9940330050885677,
+    0.9952685199677944,
+    0.9969505742192268,
+    0.9971050284802914,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.878270898014307,
+    0.8020909503102303,
+    0.8288604021072388,
+    0.8588017653673887,
+    0.8035691678524017,
+    0.9522406347095966,
+    0.9759915694594383,
+    0.9755139499902725,
+    0.9990007430315018,
+    0.9928541369736195,
+    0.9986647441983223,
+    0.9723921716213226,
+    0.999303538352251,
+    0.9981945306062698,
+    0.9992051795125008,
+    0.9990000240504742,
+    0.99961232021451,
+    0.9991766922175884,
+    0.9993119575083256,
+    0.9998813942074776,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.833453131839633,
+    0.8016084861010313,
+    0.840798744931817,
+    0.8610895201563835,
+    0.7637376710772514,
+    0.8279014825820923,
+    0.8169525153934956,
+    0.8305625878274441,
+    0.8894593641161919,
+    0.9345363974571228,
+    0.9535668976604939,
+    0.9951000958681107,
+    0.9577620290219784,
+    0.9792840257287025,
+    0.9628381505608559,
+    0.9685322679579258,
+    0.9450664035975933,
+    0.9940330050885677,
+    0.9952685199677944,
+    0.9969505742192268,
+    0.9971050284802914,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8566526602953672,
+    0.844511603936553,
+    0.8516600504517555,
+    0.8151603359729052,
+    0.7882474549114704,
+    0.8619231879711151,
+    0.8503335937857628,
+    0.9100094214081764,
+    0.9617070816457272,
+    0.9644160568714142,
+    0.9580969996750355,
+    0.9872959516942501,
+    0.9416437558829784,
+    0.9762796089053154,
+    0.9687436446547508,
+    0.9701325446367264,
+    0.9894838817417622,
+    0.988965816795826,
+    0.9999869950115681,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8654572330415249,
+    0.733275044709444,
+    0.7570469118654728,
+    0.7950354777276516,
+    0.8553364016115665,
+    0.9444660469889641,
+    0.8923038095235825,
+    0.9023695178329945,
+    0.9283008426427841,
+    0.8800915032625198,
+    0.9785833396017551,
+    0.951269518584013,
+    0.9375481121242046,
+    0.9559686444699764,
+    0.9317139610648155,
+    0.9517764113843441,
+    0.93630376085639,
+    0.9450664035975933,
+    0.9940330050885677,
+    0.9952685199677944,
+    0.9969505742192268,
+    0.9971050284802914,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8348280303180218,
+    0.7823259979486465,
+    0.8916634544730186,
+    0.790880598127842,
+    0.8497803900390863,
+    0.9148685149848461,
+    0.8212610278278589,
+    0.8793889619410038,
+    0.937129233032465,
+    0.828571505844593,
+    0.9032304883003235,
+    0.9386822804808617,
+    0.9705075621604919,
+    0.9790633246302605,
+    0.9952158108353615,
+    0.9989243112504482,
+    0.9998965710401535,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8528851084411144,
+    0.8170759696513414,
+    0.91262536495924,
+    0.769683076068759,
+    0.8388631232082844,
+    0.7082468997687101,
+    0.7474894933402538,
+    0.8240403104573488,
+    0.8306658305227757,
+    0.8999888598918915,
+    0.9234974831342697,
+    0.9211387485265732,
+    0.9495243914425373,
+    0.9868347570300102,
+    0.9951055534183979,
+    0.9965577833354473,
+    0.9926701597869396,
+    0.9605849198997021,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.8932977318763733,
+    0.8120537213981152,
+    0.7555944472551346,
+    0.7997141312807798,
+    0.8593868650496006,
+    0.8305692709982395,
+    0.877550296485424,
+    0.8550295680761337,
+    0.8359833620488644,
+    0.9307061322033405,
+    0.9061248637735844,
+    0.903919942677021,
+    0.9733962789177895,
+    0.9771029688417912,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.9780683293938637,
+    0.8319640830159187,
+    0.8332927748560905,
+    0.8185363728553057,
+    0.7951711248606443,
+    0.8610130548477173,
+    0.7582778371870518,
+    0.8261022921651602,
+    0.8248279616236687,
+    0.7884517386555672,
+    0.8511970937252045,
+    0.837606605142355,
+    0.8142677675932646,
+    0.8713829722255468,
+    0.80356983281672,
+    0.8023487888276577,
+    0.7426978908479214,
+    0.8541845548897982,
+    0.8099312838166952,
+    0.8341366816312075,
+    0.8002820312976837,
+    0.826870633289218,
+    0.7654454186558723,
+    0.8034885972738266,
+    0.7740292567759752,
+    0.8791165072470903,
+    0.8210591785609722,
+    0.7997130136936903,
+    0.8503842521458864,
+    0.8330657184123993,
+    0.8604960516095161,
+    0.8026793766766787,
+    0.820603234693408,
+    0.8853276893496513,
+    0.9057069346308708,
+    0.8756298124790192,
+    0.9524340741336346,
+    0.9766904376447201,
+    0.9279360696673393,
+    0.952983420342207,
+    0.9531224630773067,
+    0.9874126464128494,
+    0.987205870449543,
+    0.9949421398341656,
+    0.9852166175842285,
+    0.9964694641530514,
+    0.9971369132399559,
+    0.9935119971632957,
+    0.9993119575083256,
+    0.9998813942074776,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8205054830759764,
+    0.9259894378483295,
+    0.8377571702003479,
+    0.8821351751685143,
+    0.9132727049291134,
+    0.889518890529871,
+    0.9065032340586185,
+    0.947311669588089,
+    0.9748337045311928,
+    0.9894558750092983,
+    0.96899588778615,
+    0.9924893453717232,
+    0.9966638833284378,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8393387012183666,
+    0.7989979982376099,
+    0.839188102632761,
+    0.7952425740659237,
+    0.767637375742197,
+    0.9122936129570007,
+    0.9438137821853161,
+    0.9178821295499802,
+    0.9236897323280573,
+    0.931181326508522,
+    0.9329463765025139,
+    0.9698369577527046,
+    0.9274001568555832,
+    0.9463191963732243,
+    0.9080580770969391,
+    0.9737112633883953,
+    0.9608196206390858,
+    0.9931444339454174,
+    0.9965819083154202,
+    0.9996909536421299,
+    0.9999733790755272,
+    0.9999684691429138,
+    0.993651494383812,
+    0.9995694160461426,
+    0.9995476752519608,
+    0.9999296851456165,
+    0.9999969080090523,
+    0.9998965710401535,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8158224634826183,
+    0.8863492831587791,
+    0.7970490697771311,
+    0.8050591219216585,
+    0.8769700787961483,
+    0.8703329861164093,
+    0.9013482443988323,
+    0.8978021219372749,
+    0.849757794290781,
+    0.9483856819570065,
+    0.9375117085874081,
+    0.9639769159257412,
+    0.9708085358142853,
+    0.9356475248932838,
+    0.9769872240722179,
+    0.9897649176418781,
+    0.9961201809346676,
+    0.993651494383812,
+    0.9995694160461426,
+    0.9995476752519608,
+    0.9999296851456165,
+    0.9999969080090523,
+    0.9998965710401535,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9073236882686615,
+    0.8799163550138474,
+    0.7696319613605738,
+    0.8581447042524815,
+    0.9105689190328121,
+    0.9144653528928757,
+    0.9080962985754013,
+    0.9217782467603683,
+    0.867834934964776,
+    0.9436008781194687,
+    0.9081251975148916,
+    0.9383803680539131,
+    0.9870184883475304,
+    0.9996220581233501,
+    0.9702205844223499,
+    0.97298988327384,
+    0.9993137083947659,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8407415617257357,
+    0.8954439125955105,
+    0.7955414578318596,
+    0.8249386418610811,
+    0.7725567799061537,
+    0.8649288564920425,
+    0.8227107301354408,
+    0.8177651483565569,
+    0.8506950549781322,
+    0.7934506274759769,
+    0.7704392187297344,
+    0.8456005305051804,
+    0.9161325916647911,
+    0.9195698089897633,
+    0.8364423625171185,
+    0.8644683174788952,
+    0.9218729622662067,
+    0.8674971163272858,
+    0.8964105919003487,
+    0.9066639058291912,
+    0.9082461036741734,
+    0.9697512499988079,
+    0.9765784628689289,
+    0.9858970679342747,
+    0.9920429699122906,
+    0.9942842274904251,
+    0.9990000240504742,
+    0.99961232021451,
+    0.9991766922175884,
+    0.9993119575083256,
+    0.9998813942074776,
+    0.9997791647911072,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.837860956788063,
+    0.8343610521405935,
+    0.9123482517898083,
+    0.9096218943595886,
+    0.8748955279588699,
+    0.9826884344220161,
+    0.9574221130460501,
+    0.9599272981286049,
+    0.9857289008796215,
+    0.9868249781429768,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.9784395880997181,
+    0.8836135715246201,
+    0.81067761965096,
+    0.825217192992568,
+    0.8636079076677561,
+    0.8079677186906338,
+    0.8859850391745567,
+    0.879237949848175,
+    0.9346742890775204,
+    0.9034374766051769,
+    0.9263498075306416,
+    0.9377491287887096,
+    0.913409736007452,
+    0.9128709062933922,
+    0.962129820138216,
+    0.9634481109678745,
+    0.923773504793644,
+    0.9592211879789829,
+    0.9556440562009811,
+    0.9607807248830795,
+    0.9731781706213951,
+    0.9493460655212402,
+    0.973987277597189,
+    0.9976564310491085,
+    0.9929189495742321,
+    0.9924893453717232,
+    0.9966638833284378,
+    0.999984048306942,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.9999994561076164,
+    0.8231773991137743,
+    0.8505760952830315,
+    0.7768208160996437,
+    0.8151951692998409,
+    0.8493280243128538,
+    0.8018111698329449,
+    0.8666987754404545,
+    0.9326287731528282,
+    0.9260866418480873,
+    0.9591862633824348,
+    0.9941442795097828,
+    0.9739057309925556,
+    0.9558527544140816,
+    0.9686272703111172,
+    0.9664313867688179,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883,
+    0.9672445058822632,
+    0.9585372619330883
+  ],
+  "n_episodes_no_move": 0,
+  "last_move_step": [
+    26,
+    79,
+    22,
+    21,
+    21,
+    22,
+    18,
+    23,
+    16,
+    79,
+    79,
+    50,
+    13,
+    27,
+    22,
+    17,
+    32,
+    9,
+    26,
+    79
+  ],
+  "mean_last_move_step": 34.05,
+  "std_last_move_step": 23.83584485601465,
+  "n_episodes_no_actual_move": 0,
+  "last_actual_move_step": [
+    26,
+    79,
+    22,
+    21,
+    21,
+    22,
+    18,
+    23,
+    16,
+    79,
+    79,
+    50,
+    13,
+    27,
+    22,
+    17,
+    32,
+    9,
+    26,
+    79
+  ],
+  "mean_last_actual_move_step": 34.05,
+  "std_last_actual_move_step": 23.83584485601465,
+  "n_episodes_no_position_set_change": 0,
+  "last_position_set_change_step": [
+    26,
+    79,
+    22,
+    21,
+    21,
+    22,
+    18,
+    23,
+    16,
+    79,
+    79,
+    50,
+    13,
+    27,
+    22,
+    17,
+    32,
+    9,
+    26,
+    79
+  ],
+  "mean_last_position_set_change_step": 34.05,
+  "std_last_position_set_change_step": 23.83584485601465
+}
